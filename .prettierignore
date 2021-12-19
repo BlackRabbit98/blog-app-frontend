@@ -1,0 +1,19 @@
+/husky
+/.idea
+/.nyc_output
+/android
+/build
+/coverage
+
+#ignore all cypress files except integration tests
+/cypress/fixtures
+/cypress/plugins
+/cypress/screenshots
+/cypress/support
+/cypress/videos
+
+/ios
+/mochawesome-report
+/node_modules
+/public
+/resources
